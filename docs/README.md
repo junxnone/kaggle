@@ -2,8 +2,8 @@
 Title | README
 -- | --
 Create Date | `2021-11-16T14:04:56Z`
-Update Date | `2021-11-16T14:04:56Z`
-Edit link | [here](https://github.com/junxnone/Kaggle/issues/13)
+Update Date | `2021-11-16T14:07:03Z`
+Edit link | [here](https://github.com/junxnone/kaggle/issues/13)
 
 ---
 `Le vent se lève, ‌‍‍‌‍​‌‌‍​‍‌‌‌‌​‌‌‍‍‍​‌‍‍‍‍​‌‍‍‍‍​‌‍‍‌‍​‌‌‍​‍‍‌‌‌​‌‌‍‍‍​‌‌‌‍‍​‌‍‍‍‍​‌‍‍‌‍​‌‌‍​‌‌‌‌‍​‌‌‍‌​‍‌‌‌‌​‍‍‍‍‍​‍‍‍​‍‌​‌​‌‌‌​‌‌‌‌​‌‌‍il faut tenter de vivre.`
@@ -15,8 +15,8 @@ This is a Kaggle Projects Wiki.
 
 ----
 
-[![](https://img.shields.io/badge/%2B-Create%20New%20Item-brightgreen)](https://github.com/junxnone/Kaggle/issues/new)
-[![](https://img.shields.io/badge/%2B-Edit%20Sidebar-brightgreen)](https://github.com/junxnone/Kaggle/issues/12)
+[![](https://img.shields.io/badge/%2B-Create%20New%20Item-brightgreen)](https://github.com/junxnone/kaggle/issues/new)
+[![](https://img.shields.io/badge/%2B-Edit%20Sidebar-brightgreen)](https://github.com/junxnone/kaggle/issues/12)
 
 
 

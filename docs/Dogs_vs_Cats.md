@@ -2,11 +2,10 @@
 Title | Dogs vs Cats
 -- | --
 Create Date | `2019-07-02T07:24:08Z`
-Update Date | `2021-11-16T14:11:46Z`
+Update Date | `2021-11-16T14:14:00Z`
 Edit link | [here](https://github.com/junxnone/kaggle/issues/4)
 
 ---
-
 ## Reference
 - [~~Dogs vs. Cats~~ 此版本不可提交](https://www.kaggle.com/c/dogs-vs-cats/)
 - [Dogs vs. Cats Redux: Kernels Edition](https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition)
@@ -56,8 +55,6 @@ id,label
 ....
 ```
 
-## Turn on internet to install package
-![image](https://user-images.githubusercontent.com/2216970/68067727-95ab7e80-fd86-11e9-82c7-b12d8d795c86.png)
 
 
 ## Tricks

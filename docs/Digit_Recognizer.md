@@ -2,11 +2,10 @@
 Title | Digit Recognizer
 -- | --
 Create Date | `2019-07-01T15:36:02Z`
-Update Date | `2021-11-16T17:04:54Z`
+Update Date | `2021-11-17T14:26:31Z`
 Edit link | [here](https://github.com/junxnone/kaggle/issues/3)
 
 ---
-
 
 ## Reference
 
@@ -14,13 +13,15 @@ Edit link | [here](https://github.com/junxnone/kaggle/issues/3)
 - [Reference code - Apachecn](https://github.com/apachecn/kaggle/tree/master/src/python/getting-started/digit-recognizer)
 - [讲解 - Apachecn](https://github.com/apachecn/kaggle/tree/master/competitions/getting-started/digit-recognizer)
 
-# Brief
+## Brief
 - **data :** [input.zip](https://github.com/junxnone/Kaggle/files/3800104/input.zip)
-- Steps
-  - 1. Download Data
-  - 2. Build your model
-  - 3. Predict the test data
-  - 4. Submit the result
+
+### Steps
+- Setup kaggle environments
+- Download the data: `kaggle competitions download -c digit-recognizer`
+- prepare your code
+- Training/Test/Optimize your Code
+- 4. Submit the result
 
 ## 提交Result 的方法
 

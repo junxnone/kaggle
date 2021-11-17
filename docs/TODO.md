@@ -2,7 +2,7 @@
 Title | TODO
 -- | --
 Create Date | `2021-11-16T17:01:35Z`
-Update Date | `2021-11-17T16:45:01Z`
+Update Date | `2021-11-17T17:11:00Z`
 Edit link | [here](https://github.com/junxnone/kaggle/issues/15)
 
 ---
@@ -24,6 +24,7 @@ Edit link | [here](https://github.com/junxnone/kaggle/issues/15)
     - [ ] Pytorch
 - [ ] Python Script
   - [ ] Config yaml
+  - [ ] Data Formatting module
 - [ ] MLP Training
 - [ ] CNN Training(MobileNet/... ?)
 - [ ] Metrics 分析

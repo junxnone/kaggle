@@ -2,11 +2,10 @@
 Title | Digit Recognizer
 -- | --
 Create Date | `2019-07-01T15:36:02Z`
-Update Date | `2021-11-17T14:26:31Z`
+Update Date | `2021-11-17T14:26:56Z`
 Edit link | [here](https://github.com/junxnone/kaggle/issues/3)
 
 ---
-
 ## Reference
 
 - [Digit Recognizer - Kaggle](https://www.kaggle.com/c/digit-recognizer/overview)
@@ -21,7 +20,7 @@ Edit link | [here](https://github.com/junxnone/kaggle/issues/3)
 - Download the data: `kaggle competitions download -c digit-recognizer`
 - prepare your code
 - Training/Test/Optimize your Code
-- 4. Submit the result
+- Submit the result
 
 ## 提交Result 的方法
 

@@ -2,7 +2,7 @@
 Title | TODO
 -- | --
 Create Date | `2021-11-16T17:01:35Z`
-Update Date | `2021-11-17T16:28:49Z`
+Update Date | `2021-11-17T16:45:01Z`
 Edit link | [here](https://github.com/junxnone/kaggle/issues/15)
 
 ---
@@ -22,6 +22,8 @@ Edit link | [here](https://github.com/junxnone/kaggle/issues/15)
   - [ ] Training code
     - [ ] Tensorflow
     - [ ] Pytorch
+- [ ] Python Script
+  - [ ] Config yaml
 - [ ] MLP Training
 - [ ] CNN Training(MobileNet/... ?)
 - [ ] Metrics 分析

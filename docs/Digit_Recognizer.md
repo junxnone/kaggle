@@ -2,7 +2,7 @@
 Title | Digit Recognizer
 -- | --
 Create Date | `2019-07-01T15:36:02Z`
-Update Date | `2021-11-17T14:26:56Z`
+Update Date | `2021-11-17T18:14:33Z`
 Edit link | [here](https://github.com/junxnone/kaggle/issues/3)
 
 ---
@@ -11,6 +11,8 @@ Edit link | [here](https://github.com/junxnone/kaggle/issues/3)
 - [Digit Recognizer - Kaggle](https://www.kaggle.com/c/digit-recognizer/overview)
 - [Reference code - Apachecn](https://github.com/apachecn/kaggle/tree/master/src/python/getting-started/digit-recognizer)
 - [讲解 - Apachecn](https://github.com/apachecn/kaggle/tree/master/competitions/getting-started/digit-recognizer)
+- [Tensorflow example](https://github.com/tensorflow/examples/blob/94ee1cac7018aadbd1a1afa09505f4760528b0be/lite/examples/digit_classifier/ml/mnist_tflite.ipynb)
+
 
 ## Brief
 - **data :** [input.zip](https://github.com/junxnone/Kaggle/files/3800104/input.zip)

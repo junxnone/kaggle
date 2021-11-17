@@ -2,7 +2,7 @@
 Title | TODO
 -- | --
 Create Date | `2021-11-16T17:01:35Z`
-Update Date | `2021-11-17T17:11:54Z`
+Update Date | `2021-11-17T18:52:39Z`
 Edit link | [here](https://github.com/junxnone/kaggle/issues/15)
 
 ---
@@ -29,3 +29,5 @@ Edit link | [here](https://github.com/junxnone/kaggle/issues/15)
 - [ ] MLP Training
 - [ ] CNN Training(MobileNet/... ?)
 - [ ] Metrics 分析
+  - [ ] Accuracy/Precision/Recall
+  - [ ] Confusion Matrix

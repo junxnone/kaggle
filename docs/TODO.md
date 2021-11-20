@@ -2,13 +2,21 @@
 Title | TODO
 -- | --
 Create Date | `2021-11-16T17:01:35Z`
-Update Date | `2021-11-17T18:52:39Z`
+Update Date | `2021-11-20T15:02:12Z`
 Edit link | [here](https://github.com/junxnone/kaggle/issues/15)
 
 ---
 ## Reuse the code
 - [ ] Traning framework
 - [ ] Pytorch & Tensorflow
+- [ ] Python Script
+  - [ ] Config yaml
+  - [ ] Data Formatting module
+  - [ ] Model Module(Predefine Model/Custom Model)
+- [ ] Tensorboard
+- [ ] Metrics 分析
+  - [ ] Accuracy/Precision/Recall
+  - [ ] Confusion Matrix
 
 
 ## Dogs vs Cats
@@ -22,12 +30,6 @@ Edit link | [here](https://github.com/junxnone/kaggle/issues/15)
   - [ ] Training code
     - [ ] Tensorflow
     - [ ] Pytorch
-- [ ] Python Script
-  - [ ] Config yaml
-  - [ ] Data Formatting module
-  - [ ] Model Module(Predefine Model/Custom Model)
 - [ ] MLP Training
 - [ ] CNN Training(MobileNet/... ?)
-- [ ] Metrics 分析
-  - [ ] Accuracy/Precision/Recall
-  - [ ] Confusion Matrix
+

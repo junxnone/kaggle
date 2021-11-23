@@ -2,7 +2,7 @@
 Title | TODO
 -- | --
 Create Date | `2021-11-16T17:01:35Z`
-Update Date | `2021-11-22T02:38:36Z`
+Update Date | `2021-11-23T08:52:05Z`
 Edit link | [here](https://github.com/junxnone/kaggle/issues/15)
 
 ---
@@ -17,7 +17,8 @@ Edit link | [here](https://github.com/junxnone/kaggle/issues/15)
 - [ ] Metrics 分析
   - [ ] Accuracy/Precision/Recall
   - [ ] Confusion Matrix
-
+- [ ] Learning Rate Scheduler
+- [ ] Optimizer
 
 ## Dogs vs Cats
 - [ ] Training code reuse for Image Classification

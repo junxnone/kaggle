@@ -2,7 +2,7 @@
 Title | README
 -- | --
 Create Date | `2021-11-16T14:04:56Z`
-Update Date | `2021-11-16T14:27:37Z`
+Update Date | `2021-12-11T08:08:10Z`
 Edit link | [here](https://github.com/junxnone/kaggle/issues/13)
 
 ---
@@ -19,4 +19,6 @@ This is a Kaggle Projects Wiki.
 [![](https://img.shields.io/badge/%2B-Edit%20Sidebar-brightgreen)](https://github.com/junxnone/kaggle/issues/12)
 
 
+---
 
+[Index](_sidebar.md ':include')

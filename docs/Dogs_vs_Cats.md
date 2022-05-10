@@ -2,7 +2,7 @@
 Title | Dogs vs Cats
 -- | --
 Create Date | `2019-07-02T07:24:08Z`
-Update Date | `2021-11-16T14:14:00Z`
+Update Date | `2022-05-10T03:21:27Z`
 Edit link | [here](https://github.com/junxnone/kaggle/issues/4)
 
 ---
@@ -10,6 +10,7 @@ Edit link | [here](https://github.com/junxnone/kaggle/issues/4)
 - [~~Dogs vs. Cats~~ 此版本不可提交](https://www.kaggle.com/c/dogs-vs-cats/)
 - [Dogs vs. Cats Redux: Kernels Edition](https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition)
 - [手把手教你如何在Kaggle猫狗大战冲到Top2%](https://ypw.io/dogs-vs-cats-2/#more)
+- [迁移学习和微调 - Tensorflow](https://www.tensorflow.org/tutorials/images/transfer_learning)
 
 ## Brief
 

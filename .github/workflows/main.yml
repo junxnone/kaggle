@@ -9,7 +9,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: junxnone/wiki_issue2md@main
         with:
-          branch: "master" # default to main
+          branch: "main" # default to main
           dir: "docs" # default to _posts
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           created_at: ${{ github.event.issue.created_at }}
